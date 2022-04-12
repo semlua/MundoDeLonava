@@ -1,6 +1,6 @@
 # Mundo De Lonova
 
-- Repositório das aventuras no Mundo de Lonova. Criado para manter as histórias de cada sessão de RPG que o grupo avança.
+- Repositório das aventuras no Mundo de Lonova. Criado para manter as histórias de cada sessão de RPG que os grupos avançam.
 
 
 
